@@ -1,8 +1,9 @@
 # Creative-Github
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1586920740099-f3ceb65bc51e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFyZHVpbm98ZW58MHx8MHx8fDA%3D" width=1000; height= 300" style="display:block; margin:auto;">
+  <img src="https://images.unsplash.com/photo-1586920740099-f3ceb65bc51e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFyZHVpbm98ZW58MHx8MHx8fDA%3D" width=1000; height= 800" style="display:block; margin:auto;">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Jennifer Batacan</h1>
 <h3 align="center">An aspiring data scientist who likes to train AI Models.</h3>
