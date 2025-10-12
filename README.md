@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Jennifer Batacan</h1>
 <h3 align="center">An aspiring data scientist who likes to train AI Models.</h3>
-<h4 align="justify", font-width="normal">About me, I am a Computer Engineering graduate who likes to design circuit board. I can also create AI Models in terms of image classification and computer vision. I aspire to create prototypes that should be beneficiary in a community where innovation plays a vital role for creating convenience for a society. To check the execution of my prototypes (along with my groupmates) for my undergrad studies, you could click the link below.
+<h4 align="justify"; font-weight="normal">About me, I am a Computer Engineering graduate who likes to design circuit board. I can also create AI Models in terms of image classification and computer vision. I aspire to create prototypes that should be beneficiary in a community where innovation plays a vital role for creating convenience for a society. To check the execution of my prototypes (along with my groupmates) for my undergrad studies, you could click the link below.
 </h4>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=swift27-29&style=flat-square&color=green)
