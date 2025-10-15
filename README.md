@@ -10,8 +10,23 @@
 
 <h1 align="center">Hi 👋, I'm Jennifer Batacan</h1>
 <h3 align="center">An aspiring data scientist who likes to train AI Models.</h3>
-<p align="justify">About me, I am a Computer Engineering graduate who likes to design circuit board. I can also create AI Models in terms of image classification and computer vision. I aspire to create prototypes that should be beneficiary in a community where innovation plays a vital role for creating convenience for a society. To check the execution of my prototypes (along with my groupmates) for my undergrad studies, you could click the link below.
+<p align="justify">I am a Computer Engineering graduate who likes to design circuit board. I can also create AI Models in terms of image classification and computer vision. I aspire to create prototypes that should be beneficiary in a community where innovation plays a vital role for creating convenience for a society. My personal portfolio built with Streamlit is currently in progress and will be available soon!
+In the meantime, feel free to explore my GitHub repositories to see some of my past projects. 🚀
 </p>
+
+## 🧠 About Me
+- 🎨 I enjoy blending **AI and 3D visualization** — using **React**, **Three.js**, and **Blender**  
+- 🧩 I design **CNN-based models** and experiment with **YOLO** for object detection  
+- ⚙️ I’ve designed PCBs for prototype-level hardware systems  
+- 🌱 Currently exploring **full-stack integration** and **FPGA-based automation**
+
+---
+
+# 🎖️ Awards  
+🎓 Best Thesis & Best Presenter Awardee (July 2024)  
+💻 Frontend Developer | AI Enthusiast | PCB Designer  
+📍 Based in Manila, Philippines  
+
 
 [Link Text](https://example.com);
 
