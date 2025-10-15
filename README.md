@@ -27,7 +27,4 @@ In the meantime, feel free to explore my GitHub repositories to see some of my p
 💻 Frontend Developer | AI Enthusiast | PCB Designer  
 📍 Based in Manila, Philippines  
 
-
-[Link Text](https://example.com);
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=swift27-29&style=flat-square&color=green)
